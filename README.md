@@ -2,7 +2,7 @@ STM32F103 (BluePill)
 ------------------------------------------------------------
 
 Hier handelt es sich um ein eingerichtetes Setup fuer
-STM32F103 Microcontroller in Verbindung mit lipobencm3.
+STM32F103 Microcontroller in Verbindung mit libopencm3.
 
 In jedem Verzeichnis ist ein sehr einfaches Makefile ent-
 halten, das den Bedürfnissen angepasst werden kann (oder
