@@ -1,0 +1,2 @@
+stm32flash_rts -w stm32_test_115200bd.hex -g0 /dev/ttyUSB0
+
